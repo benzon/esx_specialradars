@@ -4,6 +4,7 @@
 # Scripts nécessaire:
 - es_extended
 
+# Dans ce script:
 - Radars sur la map
 - Système d'amandes par facturation
 - Coyote (sur certains radars)
