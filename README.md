@@ -3,6 +3,7 @@
 
 # Scripts nécessaire:
 - es_extended
+- esx_billing
 
 # Dans ce script:
 - Radars sur la map
